@@ -48,32 +48,6 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌟 Featured Projects
-
-### Personal Portfolio
-
-A dynamic portfolio website showcasing my skills and projects.
-
-- **Tech Stack**: React.js, Tailwind CSS, Vite
-- **Features**: Interactive project showcase, contact form, and smooth transitions
-- **Live Demo**: [your-portfolio-link.com](https://your-portfolio-link.com)
-
-### Task Manager App
-
-A full-stack task management app for organizing daily workflows.
-
-- **Tech Stack**: Node.js, MongoDB, React.js
-- **Features**: User authentication, task CRUD operations, and real-time updates
-- **Live Demo**: [task-manager-link.com](https://task-manager-link.com)
-
-### Weather App
-
-A sleek app delivering real-time weather updates using a public API.
-
-- **Tech Stack**: JavaScript, OpenWeather API, Tailwind CSS
-- **Features**: Location-based forecasts, responsive design
-- **Live Demo**: [weather-app-link.com](https://weather-app-link.com)
-
 
 ---
 
