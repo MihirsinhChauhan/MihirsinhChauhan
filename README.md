@@ -1,6 +1,7 @@
 # 😎 Greetings, I’m Mihirsinh Chauhan, Code Wrangler Extraordinaire!
- <img 
- width="400" height="300" alt="gif" src="https://github.com/user-attachments/assets/fad97f77-aaf1-468e-a910-d25b89ea5516" />
+ <p align="center">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300" alt="coding animation"/>
+</p>
 
 
 **Software Developer | Probably Overengineering Your Next Favorite App**
