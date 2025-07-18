@@ -13,7 +13,7 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 <img align="center" width="300" height="313" alt="image" src="https://github.com/user-attachments/assets/a036ccc1-3f76-4a96-a8a1-d7f70d419cfd" />
 
 
-*“That’s what she said!”* Okay, maybe not, but welcome to my corner of the internet, where I, Mihirsinh Chauhan, play the role of Dwight Schrute in the Dunder Mifflin of code—minus the beet farm. I’m a coder who thrives on wrestling bugs, herding APIs, and pretending I know what’s happening in the tech world. Fueled by coffee and the faint hope of a bug-free deployment, I sling **React.js**, **Node.js**, and **Python** like a pro (or at least a very convincing intern). Based in [Your Location, e.g., Gujarat, India], I’m ready to debug your problems or sarcastically comment on bad UI/UX—your call.
+*“That’s what she said!”* Okay, maybe not, but welcome to my corner of the internet, where I, Mihirsinh Chauhan, play the role of Dwight Schrute in the Dunder Mifflin of code—minus the beet farm. I’m a coder who thrives on wrestling bugs, herding APIs, and pretending I know what’s happening in the tech world. Fueled by coffee and the faint hope of a bug-free deployment, I sling **React.js**, **Node.js**, and **Python** like a pro (or at least a very convincing intern). Based in  Gujarat, India I’m ready to debug your problems or sarcastically comment on bad UI/UX—your call.
 
 ---
 
