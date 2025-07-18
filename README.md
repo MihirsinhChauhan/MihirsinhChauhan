@@ -1,5 +1,5 @@
 # 😎 Greetings, I’m Mihirsinh Chauhan, Code Wrangler Extraordinaire!
-  <img  align="centre" width="450" height="258" alt="image" src="https://github.com/user-attachments/assets/e58d010d-fad6-4ef6-ae39-7f41a0c43046" />
+ <img width="450" height="258" alt="image" src="https://github.com/user-attachments/assets/5dbefa5f-734a-4c0d-9095-201d0d16c2d5" />
 
 
 **Software Developer | Probably Overengineering Your Next Favorite App**
