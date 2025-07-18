@@ -1,5 +1,6 @@
 # 😎 Greetings, I’m Mihirsinh Chauhan, Code Wrangler Extraordinaire!
- <img width="450" height="258" alt="image" src="https://github.com/user-attachments/assets/5dbefa5f-734a-4c0d-9095-201d0d16c2d5" />
+ <img 
+ width="400" height="300" alt="gif" src="https://github.com/user-attachments/assets/fad97f77-aaf1-468e-a910-d25b89ea5516" />
 
 
 **Software Developer | Probably Overengineering Your Next Favorite App**
@@ -9,6 +10,8 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 ---
 
 ## 🚀 About Me
+<img align="center" width="300" height="313" alt="image" src="https://github.com/user-attachments/assets/a036ccc1-3f76-4a96-a8a1-d7f70d419cfd" />
+
 
 *“That’s what she said!”* Okay, maybe not, but welcome to my corner of the internet, where I, Mihirsinh Chauhan, play the role of Dwight Schrute in the Dunder Mifflin of code—minus the beet farm. I’m a coder who thrives on wrestling bugs, herding APIs, and pretending I know what’s happening in the tech world. Fueled by coffee and the faint hope of a bug-free deployment, I sling **React.js**, **Node.js**, and **Python** like a pro (or at least a very convincing intern). Based in [Your Location, e.g., Gujarat, India], I’m ready to debug your problems or sarcastically comment on bad UI/UX—your call.
 
@@ -71,14 +74,6 @@ A sleek app delivering real-time weather updates using a public API.
 - **Features**: Location-based forecasts, responsive design
 - **Live Demo**: [weather-app-link.com](https://weather-app-link.com)
 
----
-
-## 📬 Get in Touch
-
-- 📧 Email: [mihirsinh.chauhan@example.com](mailto:mihirsinh.chauhan@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/mihirsinh-chauhan](https://linkedin.com/in/mihirsinh-chauhan)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💬 X: [x.com/mihirsinh](https://x.com/mihirsinh)
 
 ---
 
