@@ -56,9 +56,8 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 
 ## 🎉 Fun Fact
 
-When I'm not coding, you’ll find me [e.g., exploring new tech blogs or playing cricket with friends]!
+When I'm not coding, you’ll find me chasing sunsets with my camera, pretending I’m the next Spielberg while filming dramatic slow-mo shots of leaves dancing in the wind. Photography and videography are my jam, but don’t ask me to edit—my software crashes harder than my code on a bad day! 📸🎬 Off-camera, I’m belting out tunes like I’m auditioning for a Broadway show, strumming my ukulele with questionable skill, or losing myself in music that hits harder than a production server outage. 🎶🎤
 
-**Ready to collaborate?** Dive into my repositories or scan the QR code below to connect with me on LinkedIn!
 
 
 
