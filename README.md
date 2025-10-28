@@ -16,7 +16,13 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 </p>
 
 
-*“That’s what she said!”* Okay, maybe not, but welcome to my corner of the internet, where I, Mihirsinh Chauhan, play the role of Dwight Schrute in the Dunder Mifflin of code—minus the beet farm. I’m a coder who thrives on wrestling bugs, herding APIs, and pretending I know what’s happening in the tech world. Fueled by coffee and the faint hope of a bug-free deployment, I sling **React.js**, **Node.js**, and **Python** like a pro (or at least a very convincing intern). Based in  Gujarat, India I’m ready to debug your problems or sarcastically comment on bad UI/UX—your call.
+> *“That’s what she said!”*
+> Okay, maybe not—but welcome to my corner of the internet, where I, **Mihirsinh Chauhan**, play the Dwight Schrute of the tech world (minus the beet farm). I’m a generalist engineer who loves wrestling bugs, herding APIs, and pretending to understand whatever’s trending in tech.
+
+Fueled by caffeine and chaos, I build with **Python**, **Go**, and **Flutter**—and occasionally use AI to spin up surprisingly good UI/UX. Beyond code, I think like a **product designer**, obsess over user experience, and enjoy turning rough ideas into something people actually want to use.
+
+Whether it’s debugging a gnarly backend issue or brainstorming product strategy, I’m here to make things *work* and look good while doing it.
+
 
 ---
 
@@ -39,11 +45,11 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirsinhchauhan&show_icons=true&locale=en&layout=compact" alt="mihirsinhchauhan" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirsinhchauhan&show_icons=true&locale=en&layout=compact" alt="mihirsinhchauhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirsinhchauhan&show_icons=true&locale=en" alt="mihirsinhchauhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsinhchauhan&" alt="mihirsinhchauhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsinhchauhan&" alt="mihirsinhchauhan" /></p> -->
 
 
 ---
@@ -53,10 +59,16 @@ Welcome to my GitHub, where I, Mihirsinh Chauhan, heroically battle rogue semico
 
 
 ---
-
 ## 🎉 Fun Fact
+> "My github has better bio than hinge"
 
-When I'm not coding, you’ll find me chasing sunsets with my camera, pretending I’m the next Spielberg while filming dramatic slow-mo shots of leaves dancing in the wind. Photography and videography are my jam, but don’t ask me to edit—my software crashes harder than my code on a bad day! 📸🎬 Off-camera, I’m belting out tunes like I’m auditioning for a Broadway show, strumming my ukulele with questionable skill, or losing myself in music that hits harder than a production server outage. 🎶🎤
+When I’m not coding, I’m probably chasing sunsets through a train window—headphones on, wind in my face, and a playlist that makes every moment feel like a movie scene. 🎧🚆
+
+I travel a lot (and yes, I somehow always get the perfect shot—model advantage, I guess 😎📸). Whether it’s capturing golden-hour light or street food steam, I love freezing moments that tell stories.
+
+When I’m not behind the lens, you’ll catch me belting out songs, strumming a ukulele I barely know how to play, or hunting down the next great meal.
+
+Always ready for the next trip, the next photo, and the next story worth sharing. 🚆📸✨
 
 
 
